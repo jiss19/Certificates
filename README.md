@@ -1,2 +1,2 @@
 # Certificates
-Earned Certificates for developing skill
+Earned Certificates for the skills I have developed!
